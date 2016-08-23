@@ -1,0 +1,19 @@
+{
+  "name": "gipht_api",
+  "version": "1.0.0",
+  "description": "Node/Express.js API for Gipht",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twosmalltrees/gipht_api.git"
+  },
+  "author": "twosmalltrees",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/twosmalltrees/gipht_api/issues"
+  },
+  "homepage": "https://github.com/twosmalltrees/gipht_api#readme"
+}
