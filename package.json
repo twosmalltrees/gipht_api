@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/twosmalltrees/gipht_api/issues"
   },
-  "homepage": "https://github.com/twosmalltrees/gipht_api#readme"
+  "homepage": "https://github.com/twosmalltrees/gipht_api#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.1.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
 }
